@@ -1,0 +1,5 @@
+Stamina Points define the amount of endurance you have before complete physical exhaustion (0 SP). It is affected by [[Stamina]] (Amount of SP, Exhaustion time, Recovery time), [[Health Points (HP)]](The more you are injured, the more you are exhausted. If you are in good health you will recover faster), [[Focus Points (FP)]](If your mind is exhausted, your body will be affected), and [[Resonance]](if you use or have affinity with the [[Kinetic Spectrum]] or [[Vital Spectrum]], it can affect Exhaustion and Recovery time) or even hidden stats.
+
+It can also be influenced by [[Quantum Artefact]] or [[Quantum Card]](On one time use) with the [[Kinetic Spectrum]] or [[Vital Spectrum]] affinity.
+
+it can also be affected by status effects such as : [[Blood Loss]], [[Frostbite]], [[Poison]], and [[Quantum Blight]].

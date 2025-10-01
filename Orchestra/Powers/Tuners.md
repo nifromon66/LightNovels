@@ -1,0 +1,1 @@
+Tuners are people that awakened the ability to perceive, and manipulate the one-dimensional string of the [[Universal Resonance]] to alter the [[Spectrum of Reality]] in the different [[Dimensions]] to create supernatural phenomenon.

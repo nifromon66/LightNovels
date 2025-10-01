@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "875ccd98d260b5ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dc03abe6d16b265",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de7699963b74db3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orchestra/Powers/Status Window/Stats/Dexterity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dexterity"
+            }
+          },
+          {
+            "id": "73d3acb28c259ffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orchestra/Power System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power System"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db0c649a1bf5f700",
+    "type": "split",
+    "children": [
+      {
+        "id": "98efe0ccc1d2c99e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e062d6ac35bb1f06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ebf0d15e58638297",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "108e1cf20b2a982a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f8c1e12c22e6255f",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1638315065b8d9db",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5431c403c7525ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df457eb80dddc91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orchestra/Planning/Power-System/Resonance System/Tuners.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tuners"
+            }
+          },
+          {
+            "id": "ee7ffa5e0232849c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orchestra/Planning/Power-System/Resonance System/Tuners.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tuners"
+            }
+          },
+          {
+            "id": "5b62e92471b19038",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a6079feed98d099d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orchestra/Planning/Power-System/Resonance System/Tuners.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tuners"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "73d3acb28c259ffb",
+  "lastOpenFiles": [
+    "Orchestra/Powers/Status Window - Examples/Full.md",
+    "Orchestra/Power System.md",
+    "Orchestra/Powers/Status Window - Examples/Empty.md",
+    "Orchestra/Powers/Dimensions/Self Dimensions.md",
+    "Orchestra/Powers/Dimensions/Manifest Dimensions.md",
+    "Orchestra/Powers/Dimensions/Hidden Dimensions.md",
+    "Orchestra/Powers/Spectrum/Prism/Cognitive Spectrum.md",
+    "Orchestra/Powers/Items/Quantum Artefact.md",
+    "Overview.md",
+    "Orchestra/Powers/Dimensions/Dimensions.md",
+    "Overview.md",
+    "Orchestra/Powers/Spectrum/Spectrum of Reality.md",
+    "Orchestra/Overview.md",
+    "Orchestra/Powers/Status Window/Skills/Skill Monolith.md",
+    "Orchestra/Powers/Spectrum/Prism/Soul Spectrum.md",
+    "Orchestra/Powers/Status Effect/Poison.md",
+    "Orchestra/Powers/Status Effect/Quantum Blight.md",
+    "Orchestra/Powers/Status Effect/Frostbite.md",
+    "Orchestra/Powers/Status Effect/Madness.md",
+    "Orchestra/Powers/Status Effect/Sleep.md",
+    "Orchestra/Powers/Status Effect/Blood Loss.md",
+    "Orchestra/Powers/Status Window/Energy/Stamina Points (SP).md",
+    "Orchestra/Powers/Status Window/Energy/Resonance Points (RP).md",
+    "Orchestra/Powers/Status Window/Energy/Health Points (HP).md",
+    "Orchestra/Powers/Status Window/Energy/Focus Points (FP).md",
+    "Orchestra/Glossary/Races/Zombies.md",
+    "Orchestra/Powers/Status/Stats/Hidden/Untitled",
+    "Orchestra/Locations/Types",
+    "Orchestra/Powers/Status Effect",
+    "Orchestra/Locations/Planets/Earth/Countries/France/Cities",
+    "Orchestra/Locations/Planets/Earth/Countries/France",
+    "Orchestra/Locations/Planets/Earth/Countries",
+    "Orchestra/Locations/Planets/Earth",
+    "Orchestra/Locations/Planets",
+    "Orchestra/Locations/Planets/Earth/Countries/Cities",
+    "Orchestra/Locations/Planets/Earth/Countries/France/Paris",
+    "Orchestra/Planning/Power-System/Resonance System/Resonance System.canvas"
+  ]
+}

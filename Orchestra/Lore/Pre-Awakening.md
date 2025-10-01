@@ -1,0 +1,1 @@
+Pre-Awakening Society is a Modern Earth but some part of history such as myths can be explained by the presence of [[Universal Resonance]]before [[Awakening]]. It is the history as we know it.

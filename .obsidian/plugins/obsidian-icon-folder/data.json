@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "OcHistory16",
+      "TiTimeline",
+      "FasEarthEurope",
+      "LiBook",
+      "LiScanFace"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Orchestra/Glossary": "LiBookOpen",
+  "Orchestra/Locations": "FasEarthEurope",
+  "Orchestra/Lore": "OcHistory16",
+  "Orchestra/Manuscript": "LiPenTool",
+  "Orchestra/Plot": "TiTimeline",
+  "Orchestra/Powers": "LiStars",
+  "Orchestra/Characters": "LiScanFace",
+  "Orchestra": "LiBook"
+}

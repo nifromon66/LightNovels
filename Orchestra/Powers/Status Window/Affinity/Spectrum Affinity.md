@@ -1,0 +1,1 @@
+The [[Spectrum Affinity]] will define the [[Spectrum of Reality]] you will be able to perceive and manipulate as [[Tuners]], and your ability to accept and use certain [[Skills]] or [[Quantum Artefact]].

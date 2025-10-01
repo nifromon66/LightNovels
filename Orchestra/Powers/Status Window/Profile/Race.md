@@ -1,0 +1,1 @@
+The [[Race]] is the biological identification given by the DNA and bloodline of an entity in the format of Main - Variant (for example Human - Sapiens).

@@ -1,0 +1,1 @@
+The Place it comes from in format : [[City]] / [[Country]] / [[Continent]] / [[Planet]].

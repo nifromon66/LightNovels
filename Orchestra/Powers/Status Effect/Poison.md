@@ -1,0 +1,3 @@
+Depending on the [[Poison]], it will gradually lower one of the energies : [[Health Points (HP)]], [[Focus Points (FP)]], [[Stamina Points (SP)]] and even [[Resonance Points (RP)]]. It can also temporarily lower any of the stats : [[Dexterity]], [[Health]], [[Mind]], [[Resonance]], [[Strength]], [[Stamina]].
+
+The effects can be lowered by high stats on the affected stats, or with special [[Skills]], [[Titles]] and [[Quantum Artefact]].

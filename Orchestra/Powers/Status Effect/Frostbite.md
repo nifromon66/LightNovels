@@ -1,0 +1,3 @@
+[[Frostbite]] will gradually lower [[Health Points (HP)]], will also reduce temporarily [[Dexterity]] and [[Mind]], and increase the recovery time of [[Stamina Points (SP)]] of the entity affected. It can be caused by extreme cold.
+
+The effects can be lowered or resisted with high [[Health]], [[Stamina]], [[Mind]], [[Resonance]] stats or with specific [[Skills]], [[Titles]], and [[Quantum Artefact]]. But they also can be stopped by increase in temperature.
