@@ -27,6 +27,7 @@ Affinities are divided by :
 Hidden Dimensions ideas
 - Sea of stars
 - Matrix
+- Peace and War
 
 Lore ideas
 
