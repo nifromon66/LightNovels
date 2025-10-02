@@ -19,6 +19,15 @@
 - Dream Annexation
 - Dream Fixation
 
+Affinities are divided by : 
+- Weak : Perception
+- Strong : Perception and Manipulation
+- Virtuoso : Perception, Manipulation and Creation.
+
+Hidden Dimensions ideas
+- Sea of stars
+- Matrix
+
 Lore ideas
 
 Create Factions depending on dimensions 
