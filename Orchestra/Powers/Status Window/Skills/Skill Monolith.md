@@ -1,3 +1,0 @@
-The [[Skill Monolith]] is the place where [[Skills]] are stored, [[Passive Skills]] form the base of the [[Skill Monolith]] and are not limited in number but pay attention to their effects, [[Active Skills]] have limited number of Slots on the [[Skill Monolith]] and when placed, permanently occupy the Slot and can't be replaced or removed so chose carefully, they also can't be stored, the number of Slots will increase with the Node [[Levels]] of the entity, [[Reactive Skills]] only have one Slot on the top of the [[Skill Monolith]] but can be stored and replaced at all time.
-
-The [[Skill Monolith]] appearance and environment is influenced by [[Dimensional Affinity]] and [[Spectrum Affinity]].

@@ -1,3 +1,0 @@
-it's the advancement of [[Earth]] from No Node to 1st Node that will trigger the awakening of living beings on the surface, it will also try it's best to help living beings evolve on this new path, with the status window for the [[Humans]]. It happen simultaneously worldwide. Civilisation fall immediately, nothing works because of the appearance of [[Zombies]] and [[Earth]] awakening that disturb every aspect of reality such as weather, electricity etc ...
-
-Awakening survival rates range from 5% to 50% depending on the [[Race]], and [[Humans]] rate is 35%.

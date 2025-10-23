@@ -1,1 +1,0 @@
-[[Age]] quantify the amount of time a entity has lived in years.

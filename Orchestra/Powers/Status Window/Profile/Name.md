@@ -1,1 +1,0 @@
-[[Name]] is the combination of Given name and Family name to identify an entity.

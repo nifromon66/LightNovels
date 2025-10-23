@@ -34,12 +34,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Orchestra/Glossary": "LiBookOpen",
-  "Orchestra/Locations": "FasEarthEurope",
-  "Orchestra/Lore": "OcHistory16",
   "Orchestra/Manuscript": "LiPenTool",
   "Orchestra/Plot": "TiTimeline",
-  "Orchestra/Powers": "LiStars",
-  "Orchestra/Characters": "LiScanFace",
-  "Orchestra": "LiBook"
+  "Orchestra/Characters": "LiScanFace"
 }

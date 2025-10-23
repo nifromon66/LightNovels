@@ -1,3 +1,0 @@
-[[Tuners]] unable to withstand the development of [[Quantum Neural Network]] in their brain will transform into brainless monsters called [[Zombies]].
-
-There are no stages, the transformation is extremely fast, there is no warning, it's permanent, it can be caused by innate inability to be [[Tuners]], if you have 0 [[Resonance Points (RP)]] for too much time, if you use abilities beyond your reach, ritual failures or being injured by [[Zombies]] (Which cause [[Quantum Blight]]).

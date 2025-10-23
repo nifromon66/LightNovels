@@ -1,5 +1,0 @@
-[[Focus Points (FP)]] define the amount of Willpower and Mental Stamina you have before falling in mental exhaustion and fall asleep. it can be affected by [[Mind]] (Amount of FP, Exhaustion time, Recovery time, Willpower), [[Health Points (HP)]] (If you are injured or close to death, your mind will be affected. If you are in good health you will recover faster), [[Stamina Points (SP)]] (if you are exhausted physically, your mind will be affected), [[Resonance]] (If you use or have affinity with [[Soul Spectrum]], [[Emotional Spectrum]], [[Cognitive Spectrum]] and [[Conceptual Spectrum]] your total MP can be reduced or exhaustion and recovery time can be reduced or augmented).
-
-It can also be influenced by [[Quantum Artefact]] or [[Quantum Card]] with affinity of the [[Soul Spectrum]], [[Emotional Spectrum]], [[Cognitive Spectrum]] and [[Conceptual Spectrum]].
-
-It can also be influenced by the status effects such as : [[Madness]], [[Frostbite]], [[Quantum Blight]], and [[Sleep]].
